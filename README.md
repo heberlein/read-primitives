@@ -1,6 +1,6 @@
-# primitive-types
+# read-primitives
 
-`primitive-types` adds several extension traits, that make it easy to read primitive types from any type that implements `std::io::Read`
+`read-primitives` adds several extension traits, that make it easy to read primitive types from any type that implements `std::io::Read`
 
 ## Examples
 
